@@ -1,6 +1,6 @@
 <h1 align="center">Quotes Generator</h1>
 
-![Screenshot](https://raw.githubusercontent.com/sathishkumar-io/random-quotes-js-js/main/assets/img/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/sathishkumar-io/random-quotes-js/main/assets/img/screenshot.png)
 
 Generate New Inspiration Quotes by Single Click.
 
